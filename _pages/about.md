@@ -1,6 +1,6 @@
 ---
 header:
-  image: test2.jpg
+  image: mosaic_brain.jpg
 permalink: /
 excerpt: "Jeremy Thorpe main homepage."
 author_profile: true
@@ -20,6 +20,8 @@ My doctoral dissertation is focused on investigating the contributions of somati
 # Research and Professional Experience
 
 2016 - present Ph.D. candidate, Pevsner Lab, Johns Hopkins School of Medicine
+
+2014 - 2016 Graduate student, Johns Hopkins School of Medicine
 
 October 2012 - June 2014 Lab Specialist I, Dept. of Biochem. and Mol. Genetics, University of Virginia, Charlottesville, VA   
 + Investigation of epigenetic changes during lineage commitment of iPS cells using ChIP-seq and NanoChIP-seq
