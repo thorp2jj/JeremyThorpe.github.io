@@ -1,7 +1,7 @@
 ---
-title: 'Fritz J Sedlazeck (Group Leader)'
+title: 'Jeremy J Thorpe (Group Leader)'
 collection: people
-permalink: /people/Fritz_Sedlazeck
+permalink: /people/Jeremy_Thorpe
 ---
 
 # Research 
