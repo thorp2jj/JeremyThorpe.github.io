@@ -11,9 +11,9 @@ title                    : "Jeremy Thorpe"
 title_separator          : "-"
 name                     : &name "Jeremy Thorpe"
 description              : &description "Ph.D. candidate, Johns Hopkins School of Medicine"
-url                      : https://JeremyThorpe.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://thorp2jj.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thorp2jj/JeremyThorpe.github.io"
+repository               : "thorp2jj/thorp2jj.github.io"
 teaser                   : background1.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
