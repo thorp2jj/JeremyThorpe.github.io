@@ -4,11 +4,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  image: test2.jpg
+  image: Mosaic_Brain.jpg
 ---
 
 
-  You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en){: .btn .btn--success}
+  My publications: [my Google Scholar profile](https://scholar.google.com/citations?user=ug8CnQUAAAAJ&hl=en){: .btn .btn--success}
 
 
 {% include base_path %}
