@@ -11,9 +11,9 @@ title                    : "Jeremy Thorpe"
 title_separator          : "-"
 name                     : &name "Jeremy Thorpe"
 description              : &description "Ph.D. candidate, Johns Hopkins School of Medicine"
-url                      : https://thorp2jj.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://JeremyThorpe.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thorp2jj/thorp2jj.github.io"
+repository               : "thorp2jj/JeremyThorpe.github.io"
 teaser                   : background1.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ author:
   name             : "Jeremy Thorpe"
   avatar           : 14650228_10153990079073857_8456241268632783500_n.jpg
   bio              : "Ph.D. candidate Johns Hopkins School of Medicine"
-  location         : "707 N. Broadway, Baltimore MD 21205"
+  location         : "707 N. Broadway, Baltimore MD"
   employer         : "Johns Hopkins School of Medicine"
   googlescholar    : "https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en"
   email            : "jthorpe6@jhmi.edu"
