@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fritz J. Sedlazeck"
+title                    : "Jeremy Thorpe"
 title_separator          : "-"
-name                     : &name "Fritz Sedlazeck"
-description              : &description "Assistant Professor at the Human Genome Sequencing Center at Baylor College of Medicine"
-url                      : https://fritzsedlazeck.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jeremy Thorpe"
+description              : &description "Ph.D. candidate, Johns Hopkins School of Medicine"
+url                      : https://thorp2jj.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "fritzsedlazeck/fritzsedlazeck.github.io"
+repository               : "thorp2jj/thorp2jj.github.io"
 teaser                   : background1.jpg # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : sedlazeck
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fritz J Sedlazeck"
-  avatar           : Fritz.JPG
-  bio              : "Assistant Professor at the Human Genome Sequencing Center at Baylor College of Medicine."
-  location         : "1 Baylor Plaza, Houston, TX 77030"
-  employer         : "Human Genome Sequencing Center "
+  name             : "Jeremy Thorpe"
+  avatar           : 14650228_10153990079073857_8456241268632783500_n.jpg
+  bio              : "Ph.D. candidate Johns Hopkins School of Medicine"
+  location         : "707 N. Broadway, Baltimore MD 21205"
+  employer         : "Johns Hopkins School of Medicine"
   googlescholar    : "https://scholar.google.com/citations?user=KNZTJ40AAAAJ&hl=en"
-  email            : "fritz.sedlazeck@bcm.edu"
+  email            : "jthorpe6@jhmi.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fritzsedlazeck"
+  github           : "thorp2jj"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "fritz-sedlazeck-1b879370"
-  orcid            : "http://orcid.org/0000-0001-6040-2691"
+  linkedin         : "jeremy-thorpe-74897956"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sedlazeck"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -198,7 +198,7 @@ defaults:
       comments: true
       share: true
       related: true
-      header.image: test2.png
+      header.image: Mosaic_Brain.jpg
   # _pages
   - scope:
       path: ""
@@ -209,14 +209,14 @@ defaults:
 
 
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: teaching
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
   # _publications
   - scope:
       path: ""
@@ -236,31 +236,31 @@ defaults:
       share: true
       comment: true
   # _apply
-  - scope:
-      path: ""
-      type: apply
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+  #- scope:
+  #    path: ""
+  #    type: apply
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
   # _publications
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+  #    path: ""
+  #    type: people
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comments: true
 
 # Sass/SCSS
 sass:
