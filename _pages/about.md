@@ -1,6 +1,6 @@
 ---
 header:
-  image: mosaic_brain.jpg
+  image: Mosaic_Brain_resize50.jpg
 permalink: /
 excerpt: "Jeremy Thorpe main homepage."
 author_profile: true
