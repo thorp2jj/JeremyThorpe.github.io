@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 header:
-  image: Mosaic_Brain_resize50.jpg
+  image: Mosaic_Brain_resize25.jpg
 ---
 
 
