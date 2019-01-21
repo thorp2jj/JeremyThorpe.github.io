@@ -1,6 +1,6 @@
 ---
 header:
-  image: dna2-homepage-banner-cropped.jpeg
+  image: dna_banner.jpeg
 permalink: /
 excerpt: "Jeremy Thorpe main homepage."
 author_profile: true
