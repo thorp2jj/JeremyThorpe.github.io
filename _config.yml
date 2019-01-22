@@ -198,7 +198,7 @@ defaults:
       comments: true
       share: true
       related: true
-      header.image: Mosaic_Brain.jpg
+      header.image: dna_banner_long.jpg
   # _pages
   - scope:
       path: ""
