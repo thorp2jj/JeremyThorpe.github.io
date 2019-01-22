@@ -1,6 +1,6 @@
 ---
 header:
-  image: Mosaic_Brain.jpg
+  image: dna_banner_long.jpg
 layout: archive
 title: "People"
 permalink: /people/
